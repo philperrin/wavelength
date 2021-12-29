@@ -5,7 +5,11 @@ A Slack app that will call Tableau to pull an image of a dashboard, filtered to 
 Work in progress.
 
 
+
 Big Ideas: Luke
+
 Backend Tinkering: Nick
+
 Code Warrior: Jealyn
+
 Not-Quite-Innocent Bystander: Phil
