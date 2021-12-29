@@ -1,15 +1,11 @@
-Tessellation Wavelength Project
+## Tessellation Wavelength Project  
+A Slack app that will call Tableau Online to pull an image of a dashboard, filtered to data specific to the Slack User making the call.
 
-A Slack app that will call Tableau to pull an image of a dashboard, filtered to data specific to the Slack User ID.
-
-Work in progress.
-
+*Work in progress.*  
+  
 
 
-Big Ideas: Luke
-
-Backend Tinkering: Nick
-
-Code Warrior: Jealyn
-
-Not-Quite-Innocent Bystander: Phil
+**Big Ideas**: Luke  
+**Backend Tinkering**: Nick  
+**Code Warrior**: Jealyn  
+**Not-Quite-Innocent Bystander**: Phil
